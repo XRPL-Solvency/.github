@@ -11,8 +11,8 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 ## **Our code** 👨‍💻
 
-You can test our live demo [website]()  
-Code of the [WebApp]()  
+You can test our live demo [website](https://web-app-virid-theta.vercel.app/)  
+Code of the [WebApp](https://github.com/XRPL-Solvency/webApp)  
 Code of the [Proof Generation and Verification]() implemented in python.
 
 ## **Litepaper** 👨‍💼 
@@ -25,7 +25,7 @@ Please find here our [Litepaper](https://github.com/XRPL-Solvency/.github/blob/m
 
 ## **Pitch Deck**
 
-Discover our [pitch deck]() ! 
+Discover our [pitch deck](https://github.com/XRPL-Solvency/.github/blob/main/XRPLSolvency_pitch_deck.pdf) ! 
 
 ## **The team** 🏆
 
