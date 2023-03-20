@@ -15,9 +15,9 @@ You can test our live demo [website]()
 Code of the [WebApp]()  
 Code of the [Proof Generation and Verification]() implemented in python.
 
-## **Business plan** 👨‍💼 
+## **Litepaper** 👨‍💼 
 
-Please find here our [Litepaper]()  
+Please find here our [Litepaper](https://github.com/XRPL-Solvency/.github/blob/main/Litepaper.md)  
 
 ## **Video demo**
 
