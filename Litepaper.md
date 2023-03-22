@@ -243,6 +243,7 @@ Finally comes the signature verification When someone receives the signed messag
 **Smart contract architecture  !**
 
 **Proof  generation:**
+
 [![proof-generation.png](https://i.postimg.cc/SsNPFjZd/proof-generation.png)](https://postimg.cc/GBVKv3nT)
 
 Here is a recap of why we think XRPL Network is a perfect fit for our solution:  
