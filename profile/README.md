@@ -6,14 +6,14 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 
 ## **Features** ✨
 
-[Proof Generation]()  
-[Proof Verification]()
+[Proof Generation](https://github.com/XRPL-Solvency/localExecutables)  
+[Proof Verification](https://github.com/XRPL-Solvency/localExecutables)
 
 ## **Our code** 👨‍💻
 
 You can test our live demo [website](https://web-app-virid-theta.vercel.app/)  
 Code of the [WebApp](https://github.com/XRPL-Solvency/webApp)  
-Code of the [Proof Generation and Verification]() implemented in python.
+Code of the [Proof Generation and Verification](https://github.com/XRPL-Solvency/localExecutables) implemented in python.
 
 ## **Litepaper** 👨‍💼 
 
