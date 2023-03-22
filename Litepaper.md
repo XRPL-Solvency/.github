@@ -245,7 +245,7 @@ Finally comes the signature verification When someone receives the signed messag
 **Supported networks:** XRPL Testnet. 
 
 **Smart contract architecture  !**
-
+[]([![proof-generation.png](https://i.postimg.cc/SsNPFjZd/proof-generation.png)](https://postimg.cc/GBVKv3nT))
 **Proof  generation:**
 
 
