@@ -240,7 +240,7 @@ Finally comes the signature verification When someone receives the signed messag
 
 **Supported networks:** XRPL Testnet. 
 
-**Architecture  **
+**Architecture**
 
 **Proof  generation:**
 
