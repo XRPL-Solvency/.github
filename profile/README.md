@@ -2,7 +2,10 @@
 
 **Enhance privacy, Prove solvency**
 
-In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. The XRPL Solvency project allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.
+In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. The XRPL Solvency project allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.  
+  
+XRPL Solvency is a groundbreaking cutting-edge privacy solution for the blockchain ecosystem, enabling individuals to prove solvency without disclosing their wallet address or transaction history. Utilizing ring signatures, our tool delivers robust, verifiable solvency proofs while safeguarding user privacy. As an open-source, community-driven project, XRPL Solvency empowers users with transparency and trust, while offering revenue opportunities through custom modules for various platforms and companies. Experience the future of private, secure blockchain transactions with XRPL Solvency.  
+
 
 ## **Features** ✨
 
