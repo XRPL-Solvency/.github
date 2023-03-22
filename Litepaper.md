@@ -157,7 +157,7 @@ The trend towards privacy on the blockchain is being driven by several factors, 
 
 As a result, we can expect to see continued growth in the market for privacy-enhanced blockchain solutions like “XRPL Solvency” as more individuals and businesses seek to protect their transaction data and maintain their privacy on the blockchain. However, there may also be challenges in this market, such as regulatory issues and concerns about the use of privacy- enhanced technologies for illicit purposes. 
 
-8. **Business<a name="_page10_x68.00_y71.00"></a> model. **
+8. **Business<a name="_page10_x68.00_y71.00"></a> model**
 
 Our Core Product will be to develop and maintain the open-source XRPL Solvency solution, which provides privacy and proof of solvency to users through the use of cryptographic ring signatures. This core product will be the foundation of our business and will help establish our reputation within the XRPL community. However, we will develop other strategies that will help us generating income through various avenues, such as:  
 
