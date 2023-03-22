@@ -87,11 +87,7 @@ Bob wants to verify Alice’s proof:
 
 **Step 3:** Transferring the funds Once an agreement has been reached between Alice and Bob, Alice can send the various funds directly to Bob. But to increase his privacy, he will have to use a different wallet than the one linked to the generation of the proof of solvency. 
 
-**Step 1:** ![]()
-
-**Step 2:** ![]()
-
-**Step 3:** ![]()
+[![schema.png](https://i.postimg.cc/vZG8gtDZ/schema.png)](https://postimg.cc/JGdCSJbf)
 
 
 5. **Use<a name="_page6_x68.00_y94.00"></a> Cases**
