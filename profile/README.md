@@ -17,11 +17,11 @@ Code of the [Proof Generation and Verification](https://github.com/XRPL-Solvency
 
 ## **Litepaper** 👨‍💼 
 
-Please find here our [Litepaper](https://github.com/XRPL-Solvency/.github/blob/main/Litepaper.md)  
+Please find here our [Litepaper](https://github.com/XRPL-Solvency/.github/blob/main/litepaper.pdf)  
 
 ## **Video demo**
 
-[Video demo on YT]()  
+[Video demo on Loom](https://www.loom.com/share/5d429faa9b6843d4adc47d8c509980ea)  
 
 ## **Pitch Deck**
 
