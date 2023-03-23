@@ -24,7 +24,7 @@ Please find here our [Litepaper](https://github.com/XRPL-Solvency/.github/blob/m
 
 ## **Video demo**
 
-[Video demo on Loom](https://www.loom.com/share/5d429faa9b6843d4adc47d8c509980ea)  
+[Video demo on YT](https://youtu.be/YvYjXSexVzo)  
 
 ## **Pitch Deck**
 
