@@ -1,4 +1,4 @@
-<a name="_page0_x68.00_y71.00"></a>**Lite paper: XRPL Solvency !**
+<a name="_page0_x68.00_y71.00"></a>**Lite paper: XRPL Solvency**
 
 [Lite paper: XRPL Solvency ................................................................................................................................. 1](#_page0_x68.00_y71.00)
 
@@ -338,11 +338,12 @@ By addressing the need for privacy in the blockchain ecosystem while having a re
 
 - Audit of the cryptographic implementation in typescript. Audit of the plugin. 
 - Release of the implementation as an open-source library. 
-- Release of the V1 product (proof only possible on the XRP coin) 
+- Release of the V1 product (proof only possible on the XRP coin)
+- Creation of an indexer allowing to make proofs on the tokens and NFT present on XRPL.  
+ 
 
 **Q1 2024:**  
 
-- Creation of an indexer allowing to make proofs on the tokens and NFT present on XRPL.  
 - V2 beta release (proof possible on all tokens and NFT on XRPL).  
 - V2 release.  
 
