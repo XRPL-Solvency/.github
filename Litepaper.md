@@ -87,7 +87,7 @@ Bob wants to verify Alice’s proof:
 
 **Step 3:** Transferring the funds Once an agreement has been reached between Alice and Bob, Alice can send the various funds directly to Bob. But to increase his privacy, he will have to use a different wallet than the one linked to the generation of the proof of solvency. 
 
-[![schema.png](https://i.postimg.cc/vZG8gtDZ/schema.png)](https://postimg.cc/JGdCSJbf)
+[![alice.png](https://i.postimg.cc/xTtNg3Kh/alice.png)](https://postimg.cc/1fVz367r)
 
 
 5. **Use<a name="_page6_x68.00_y94.00"></a> Cases**
@@ -175,6 +175,8 @@ Our Core Product will be to develop and maintain the open-source XRPL Solvency s
 
 By combining these revenue streams, we can create a sustainable business model that allows us  to  contribute  to  the  XRPL  community  while  also  generating  income  through  various avenues. 
 
+[![bismod.png](https://i.postimg.cc/sXjRn7PH/bismod.png)](https://postimg.cc/yJb5xJb0)
+
 
 9. **Marketing<a name="_page12_x68.00_y71.00"></a> strategy**
 
@@ -244,7 +246,7 @@ Finally comes the signature verification When someone receives the signed messag
 
 **Proof  generation:**
 
-[![proof-generation.png](https://i.postimg.cc/SsNPFjZd/proof-generation.png)](https://postimg.cc/GBVKv3nT)
+[![schema.png](https://i.postimg.cc/5tmhFjcB/schema.png)](https://postimg.cc/sBv6kjgx)
 
 Here is a recap of why we think XRPL Network is a perfect fit for our solution:  
 
